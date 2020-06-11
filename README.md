@@ -12,3 +12,5 @@ python3 -m venv bootcamp_venv
 source bootcamp_venv/bin/activate
 pip install -r requirements.txt
 ```
+
+The requirements might be a bit excessive, I just grabbed a copy of the environment I was using, so you may not need all of the packages for the stuff here
